@@ -28,13 +28,14 @@ body {
     font-size: 1.1rem;
     text-align: center;
     border-radius: 1rem;
+    cursor: pointer;
     font-family: monospace;
     /* line-height: 3rem; */
 }
 
 .post:hover {
-    background-color: white ;
-    color: white;
+    background-color: gray ;
+    color: black;
 }
 
 h1 {
