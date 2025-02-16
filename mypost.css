@@ -32,6 +32,11 @@ body {
     /* line-height: 3rem; */
 }
 
+.post:hover {
+    background-color: white ;
+    color: white;
+}
+
 h1 {
     line-height: 3rem;
 }
