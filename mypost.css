@@ -21,8 +21,8 @@ body {
     align-items: center;
     padding: 10px;
     width: 30%;
-    background-color: gray ;
-    color: black;
+    background-color: rgb(124, 145, 85) ;
+    color: rgb(12, 11, 11);
     text-shadow: coral;
     padding: 3rem;
     font-weight: 600;
