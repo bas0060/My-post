@@ -22,14 +22,15 @@ body {
     padding: 10px;
     width: 30%;
     background-color: rgb(52, 48, 48);
-    color: white;
+    color: rgba(255, 255, 255, 0.788);
+    text-shadow: coral;
     padding: 3rem;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 1.1rem;
     text-align: center;
     border-radius: 1rem;
     cursor: pointer;
-    font-family: monospace;
+    font-family: 'poppins', Arial, Helvetica, sans-serif;
     /* line-height: 3rem; */
 }
 
